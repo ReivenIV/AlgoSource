@@ -1,22 +1,27 @@
 function lePlusFrequent(tab){
 
+
 }
 
 
-console.log(lePlusFrequent([3, 'a', 'a', 'a','b','b', 2, 3, 'a', 3, 'a', 2, 4, 9, 3])); // Le plus récurent est : a, il est compté 5 fois
 
+
+console.log(lePlusFrequent(['a',3,2,'a','b',2,'b',4,'a',3,'a',3])); 
 
 
 // -----------------  Énoncé ------------------- //
 
-// Créez un programme qui analyse l'élément qui est a le plus d'ocurrence dans un tableau
+// Créez un programme qui trouve le ou les éléments qui apparaissent le plus dans un tableau.
 
 // -----------------  Conseils ------------------- //
 
-// for loop
+// boucle for
 // if
-
-
+// Objet
+// while
+// filter
+// push
+//...
 
 
 
